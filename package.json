@@ -1,0 +1,28 @@
+{
+  "name": "bitgrail",
+  "version": "0.0.1",
+  "description": "Cryptocurrency quotes sourced from BitGrail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitquant/bitgrail.git"
+  },
+  "keywords": [
+    "bitgrail",
+    "cryptocurrency",
+    "quotes"
+  ],
+  "author": "bitquant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitquant/bitgrail/issues"
+  },
+  "homepage": "https://github.com/bitquant/bitgrail#readme",
+  "dependencies": {
+    "request": "2.85.0",
+    "request-promise-native": "1.0.5"
+  }
+}
